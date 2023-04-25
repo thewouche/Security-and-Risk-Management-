@@ -1,0 +1,20 @@
+# Theft of Unencrypted Laptop
+
+This scenario illustrates the importance of maintaining the security of personal data, especially sensitive information related to medical studies. It is concerning that the laptop in question was not encrypted, despite the fact that it contained personal data.
+The case study addresses the GDPR's data breach notification requirements, specifically Article 33 which requires data controllers to notify the supervisory authority without undue delay, and where feasible, no later than 72 hours after becoming aware of a personal data breach (Art. 33 GDPR – Communication of a personal data breach to the data subject - General Data Protection Regulation (GDPR), 2016).
+Additionally, it addresses Article 34 which requires data controllers to inform affected individuals of a data breach if the breach is likely to result in a high risk to their rights and freedoms. The decision not to notify affected individuals in this case was made 
+in accordance with the balancing test required under Article 34, which involves weighing the potential impact of the breach against the potential harm or distress to the affected individuals (Art. 34 GDPR – Communication of a personal data breach to the data subject - General Data Protection Regulation (GDPR), 2016).
+
+The case study does not provide specific information on how the data breach was resolved, but it does mention that the Office advised the data controller on its guidance for notifying affected individuals. The data controller, which in this case was the organization responsible for the medical study, provided its view that notification to affected individuals would cause more distress than help, and this view was supported by the medical professional overseeing the project.
+The case study also notes that the incident highlighted the need for data protection considerations to be constantly monitored and security arrangements to be periodically reviewed to ensure they are adequate to protect personal data.
+
+According to Brotby (2007) below are the steps that any competent Information Security Manager, should take to mitigate a data breach issue and prevent similar incidents from occurring in the future:
+1) Encryption: The first step would be to ensure that all portable devices, including laptops, are encrypted to protect sensitive data from unauthorized access in case of device theft or loss.
+2) Security Awareness Training
+3) Incident Response Plan: Develop and implement an incident response plan.
+4) Regular Security Audits
+5) Monitoring: Implement continuous monitoring of all devices and systems
+6) Ensure that the organization is compliant with all applicable data protection regulations, and GDPR.
+
+## Reference:
+Brotby, W.K. (2007) Information Security Governance: Guidance for Information Security Managers. ISACA.
