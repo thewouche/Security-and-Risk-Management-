@@ -1,0 +1,21 @@
+Threat modelling and management are critical components of cybersecurity. Here are some tools and resources that can be used in threat modelling and management:
+
+- STRIDE: STRIDE is a framework for identifying and categorizing potential threats in software applications. The acronym stands for Spoofing, Tampering, Repudiation, Information disclosure, Denial of service, and Elevation of privilege.
+
+- PASTA: PASTA (Process for Attack Simulation and Threat Analysis) is a seven-step process for conducting threat modeling. The process involves identifying assets, creating an architecture diagram, decomposing the application, identifying threats, prioritizing threats, creating threat models, and validating the models.
+
+- ThreatModeler: ThreatModeler is a tool that automates the threat modeling process. It uses a visual interface to identify assets, data flows, and threat actors, and generates a threat model based on the input.
+
+- Microsoft Threat Modeling Tool: The Microsoft Threat Modeling Tool is a free tool that helps identify threats in software applications. It provides a visual interface for creating data flow diagrams, identifying threats, and creating threat models.
+
+- OWASP Top 10: The OWASP Top 10 is a list of the top 10 web application security risks. It provides guidance on how to identify and mitigate these risks.
+
+- NIST Cybersecurity Framework: The NIST Cybersecurity Framework is a framework for managing cybersecurity risk. It provides a framework for identifying, protecting, detecting, responding to, and recovering from cybersecurity incidents.
+
+- ISACA COBIT: COBIT is a framework for IT governance and management. It provides guidance on how to manage IT resources, including cybersecurity risks.
+
+- SANS Institute: The SANS Institute provides training and resources on cybersecurity, including threat modeling and management.
+
+- Information Sharing and Analysis Centers (ISACs): ISACs are private sector organizations that share cybersecurity threat information with their members. There are ISACs for various industries, including finance, healthcare, and energy.
+
+- Cybersecurity Information Sharing Act (CISA): The CISA is a law that encourages the sharing of cybersecurity threat information between the government and the private sector. It provides liability protections for organizations that share information in good faith.
