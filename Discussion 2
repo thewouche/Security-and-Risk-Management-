@@ -1,0 +1,13 @@
+# Spring et al (2021) argument:
+The Common Vulnerability Scoring System (CVSS) is a framework used to assess the severity of security vulnerabilities in software and hardware systems. Spring et al (2021) critized this approach in their paper stating that  there are some issues associated with the CVSS approach.
+- The scoring system is subjective and dependent on the knowledge and experience of the person assessing the vulnerability.
+- The scoring system is too complex and make it difficult for users to understand and apply. Therefore, this can easily lead to inaccurate scoring and misinterpretation of the severity of the vulnerability.
+- The CVSS focuses primarily on technical vulnerabilities and does not consider the impact of social engineering or other non-technical attacks.
+
+While the CVSS is a valuable tool for assessing the severity of security vulnerabilities, it's important to understand its limitations and use it in conjunction with other methods to gain a more complete understanding of the overall risk. Having said yes i do agree with Spring et al (2021) argument. These issues were furhter highlighted by Figueroa-Lorenzo, Añorga and Arrizabalaga (2020) stating that CVSS has two disadvantages On the one hand, additional metrics to those specified in CVSSv3.1 are required to perform risk analysis. On the other hand, this metric is mainly used in IT environments and much effort has been made to develop models suitable for industrial environments, but there are no established proposals.
+
+Stakeholder-Specific Vulnerability Categorization (SSVC) is an alternative mentioned by Spring et al (2021). It's an alternative approach to vulnerability categorization that addresses some of the limitations of the Common Vulnerability Scoring System (CVSS). The SSVC approach recognizes that different stakeholders may have different priorities, concerns, and risks associated with a given vulnerability, and that a single score may not adequately reflect those differences (Spring et al.,2021) 
+
+## References:
+Figueroa-Lorenzo, S., Añorga, J. and Arrizabalaga, S. (2020) “A Survey of IIoT Protocols,” ACM Computing Surveys, 53(2), pp. 1–53. Available at: https://doi.org/10.1145/3381038.
+Spring, J.M., Householder, A., Hatleback, E., Manion, A., Oliver, M., Sarvapalli, V., Tyzenhaus, L. and Yarbrough, C., 2021. Prioritizing Vulnerability Response: A Stakeholder-Specific Vulnerability Categorization (Version 2.0). CARNEGIE-MELLON UNIV PITTSBURGH PA.
